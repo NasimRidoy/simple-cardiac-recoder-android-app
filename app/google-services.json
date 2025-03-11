@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "538998276050",
+    "project_id": "cardioassistant",
+    "storage_bucket": "cardioassistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538998276050:android:379845e35f3f6f411c520b",
+        "android_client_info": {
+          "package_name": "com.example.cardioassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538998276050-pflnfbr6d5jount2djcj578t0c90iaf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZo5M728YroYcaxbGG4iWPxNmxE7bnLas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538998276050-pflnfbr6d5jount2djcj578t0c90iaf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
